@@ -1,0 +1,44 @@
+/* Style for the body tag */
+body {
+    font-family: Arial, sans-serif; /* Change the font family */
+    font-size: 16px; /* Change the font size */
+}
+
+/* Style for the header tag */
+header {
+    background-color: #4CAF50; /* Change the background color */
+}
+
+/* Style for the nav tag */
+nav {
+    background-color: #333; /* Change the background color */
+}
+
+/* Style for the main tag */
+main {
+    background-color: #f4f4f4; /* Change the background color */
+    font-size: 18px; /* Change the font size */
+}
+
+/* Style for the footer tag */
+footer {
+    background-color: #777; /* Change the background color */
+}
+
+/* Style for the li tag */
+li {
+    display: inline-block; /* Change the display property */
+    width: 100px; /* Change the width */
+}
+
+/* Style for the h1 tag */
+h1 {
+    text-align: center; /* Align text to the center */
+    font-family: 'Times New Roman', serif; /* Change the font family */
+    color: #333; /* Change the text color */
+}
+
+/* Style for the p tag */
+p {
+    line-height: 1.6; /* Change the line height */
+}
